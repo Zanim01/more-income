@@ -1,0 +1,2 @@
+# more-income
+never fail
